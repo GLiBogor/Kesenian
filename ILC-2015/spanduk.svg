@@ -15,7 +15,10 @@
    id="svg3838"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="spanduk.svg">
+   sodipodi:docname="spanduk.svg"
+   inkscape:export-filename="/home/arst/git/GLiBogor/Kesenian/ILC-2015/spanduk.png"
+   inkscape:export-xdpi="90.002365"
+   inkscape:export-ydpi="90.002365">
   <defs
      id="defs3840">
     <linearGradient
@@ -2522,9 +2525,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.030935922"
-     inkscape:cx="10869.412"
-     inkscape:cy="3296.7471"
+     inkscape:zoom="0.04375"
+     inkscape:cx="8569.9578"
+     inkscape:cy="1621.0718"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2566,7 +2569,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
