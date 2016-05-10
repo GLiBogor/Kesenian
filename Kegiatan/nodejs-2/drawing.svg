@@ -15,9 +15,9 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg4214"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="drawing.svg"
-   inkscape:export-filename="/home/irfanpule/Documents/GliB/Kesenian/Kegiatan/nodejs-2/mongodb.png"
+   inkscape:export-filename="/home/ars/git/GLiB/Kesenian/Kegiatan/nodejs-2/mongodb-rev1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -172,18 +172,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="364.38394"
+     inkscape:cx="21.94223"
      inkscape:cy="471.29568"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="744"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -235,27 +235,27 @@
        id="rect4768"
        style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.71499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/irfanpule/Documents/GliB/Kesenian/Kegiatan/nodejs-2/bg-under2.jpg"
+       sodipodi:absref="/home/ars/git/GLiB/Kesenian/Kegiatan/nodejs-2/bg-under2.jpg"
        xlink:href="bg-under2.jpg"
-       y="679.07147"
-       x="435.15894"
-       id="image5783"
-       preserveAspectRatio="none"
-       height="121.19462"
-       width="215.45708"
+       transform="translate(0,-17.142857)"
        clip-path="url(#clipPath5786)"
-       transform="translate(0,-17.142857)" />
-    <image
-       sodipodi:absref="/home/irfanpule/Documents/GliB/Kesenian/Kegiatan/nodejs-2/Free-Class-Room.jpg"
-       xlink:href="Free-Class-Room.jpg"
-       y="293.51056"
-       x="490.20349"
-       id="image5798"
+       width="215.45708"
+       height="121.19462"
        preserveAspectRatio="none"
-       height="106.95813"
-       width="190.14778"
+       id="image5783"
+       x="435.15894"
+       y="679.07147" />
+    <image
+       sodipodi:absref="/home/ars/git/GLiB/Kesenian/Kegiatan/nodejs-2/Free-Class-Room.jpg"
+       xlink:href="Free-Class-Room.jpg"
+       transform="translate(0,-17.142857)"
        clip-path="url(#clipPath5803)"
-       transform="translate(0,-17.142857)" />
+       width="190.14778"
+       height="106.95813"
+       preserveAspectRatio="none"
+       id="image5798"
+       x="490.20349"
+       y="293.51056" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -275,16 +275,16 @@
        x="625.57556"
        y="-151.22017" />
     <image
-       sodipodi:absref="/home/irfanpule/Documents/GliB/Kesenian/Kegiatan/nodejs-2/sky.jpg"
+       sodipodi:absref="/home/ars/git/GLiB/Kesenian/Kegiatan/nodejs-2/sky.jpg"
        xlink:href="sky.jpg"
-       transform="matrix(0.88327152,0,0,0.88327152,147.38909,80.717889)"
-       clip-path="url(#clipPath5631)"
-       width="924.44446"
-       height="520.00006"
-       preserveAspectRatio="none"
-       id="image5628"
+       y="70.933609"
        x="-200.00006"
-       y="70.933609" />
+       id="image5628"
+       preserveAspectRatio="none"
+       height="520.00006"
+       width="924.44446"
+       clip-path="url(#clipPath5631)"
+       transform="matrix(0.88327152,0,0,0.88327152,147.38909,80.717889)" />
     <rect
        style="opacity:0.81600001;fill:#212121;fill-opacity:1;stroke:none;stroke-width:0.71499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5519"
@@ -311,16 +311,16 @@
        x="750.4892"
        y="-151.22017" />
     <image
-       sodipodi:absref="/home/irfanpule/Documents/GliB/Kesenian/Kegiatan/nodejs-2/images.jpg"
+       sodipodi:absref="/home/ars/git/GLiB/Kesenian/Kegiatan/nodejs-2/images.jpg"
        xlink:href="images.jpg"
-       transform="matrix(0.88327152,0,0,0.88327152,147.38909,80.717889)"
-       clip-path="url(#clipPath5615)"
-       width="333.57141"
-       height="207.89488"
-       preserveAspectRatio="none"
-       id="image5612"
+       y="483.66379"
        x="278.21429"
-       y="483.66379" />
+       id="image5612"
+       preserveAspectRatio="none"
+       height="207.89488"
+       width="333.57141"
+       clip-path="url(#clipPath5615)"
+       transform="matrix(0.88327152,0,0,0.88327152,147.38909,80.717889)" />
     <rect
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
        style="display:inline;opacity:1;fill:#757575;fill-opacity:1;stroke:none;stroke-width:0.71499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -421,30 +421,6 @@
        y="1019.0297"
        ry="0" />
     <text
-       inkscape:export-ydpi="300.01077"
-       inkscape:export-xdpi="300.01077"
-       sodipodi:linespacing="125%"
-       id="text3437"
-       y="938.78351"
-       x="205.85301"
-       style="font-style:normal;font-weight:normal;font-size:20.08163452px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#1a1a1a"
-         y="938.78351"
-         x="205.85301"
-         id="tspan3439"
-         sodipodi:role="line">Informasi lebih lanjut</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#1a1a1a"
-         id="tspan3441"
-         y="954.47229"
-         x="205.85301"
-         sodipodi:role="line">SMS/WhatsApp/Telegram:</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#1a1a1a"
-         id="tspan3443"
-         y="970.16107"
-         x="205.85301"
-         sodipodi:role="line">+62-8787-0870-412</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="566.96222"
@@ -458,30 +434,6 @@
          x="566.96222"
          y="1039.6595"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">*Maksimal 12 Orang</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.08163452px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
-       x="545.112"
-       y="938.71606"
-       id="text5687"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         x="545.112"
-         y="938.71606"
-         id="tspan5693"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#1a1a1a">Rumah Btech</tspan><tspan
-         sodipodi:role="line"
-         x="545.112"
-         y="954.40485"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:end;text-anchor:end;fill:#1a1a1a"
-         id="tspan3440">Perum Taman Cimanggu</tspan><tspan
-         sodipodi:role="line"
-         x="545.112"
-         y="970.09363"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:end;text-anchor:end;fill:#1a1a1a"
-         id="tspan5702">Jl. Tanjung VIII No.14 Bogor</tspan></text>
     <g
        id="g3427"
        transform="matrix(1.0853326,0,0,1.0853326,14.103305,-21.901239)">
@@ -542,74 +494,116 @@
            y="140.09537">as</tspan></text>
     </g>
     <g
-       id="g4304"
-       transform="matrix(0.83673479,0,0,0.83673479,5.8966967,137.74407)">
-      <rect
-         transform="matrix(0,1,-1,0,0,0)"
-         style="display:inline;opacity:0.98999999;fill:#026e00;fill-opacity:1;stroke:none;stroke-width:0.71499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4257"
-         width="40.263107"
-         height="40.263107"
-         x="945.86261"
-         y="-222.64311" />
+       id="g4269"
+       transform="translate(-3.2549614,0)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.08163452px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
+         x="205.85301"
+         y="938.78351"
+         id="text3437"
+         sodipodi:linespacing="125%"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-ydpi="300.01077"><tspan
+           sodipodi:role="line"
+           id="tspan3439"
+           x="205.85301"
+           y="938.78351"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#1a1a1a">Informasi lebih lanjut</tspan><tspan
+           sodipodi:role="line"
+           x="205.85301"
+           y="954.47229"
+           id="tspan3441"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#1a1a1a">SMS/WhatsApp/Telegram:</tspan><tspan
+           sodipodi:role="line"
+           x="205.85301"
+           y="970.16107"
+           id="tspan3443"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#1a1a1a">+62-8787-0870-412</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         sodipodi:linespacing="125%"
+         id="text5687"
+         y="938.71606"
+         x="545.112"
+         style="font-style:normal;font-weight:normal;font-size:20.08163452px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#1a1a1a"
+           id="tspan5693"
+           y="938.71606"
+           x="545.112"
+           sodipodi:role="line">Rumah Btech</tspan><tspan
+           id="tspan3440"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:end;text-anchor:end;fill:#1a1a1a"
+           y="954.40485"
+           x="545.112"
+           sodipodi:role="line">Perum Taman Cimanggu</tspan><tspan
+           id="tspan5702"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.55102158px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:end;text-anchor:end;fill:#1a1a1a"
+           y="970.09363"
+           x="545.112"
+           sodipodi:role="line">Jl. Tanjung VIII No.14 Bogor</tspan></text>
       <g
-         style="opacity:0.98999999;fill:#ffffff;fill-opacity:1"
-         transform="matrix(0.42206524,0,0,0.42206524,189.00527,952.48787)"
-         id="g4245">
-        <path
-           style="fill:#ffffff;fill-opacity:1"
-           inkscape:connector-curvature="0"
-           d="M 59.035,48.433 50.293,39.69 c -1.741,-1.734 -4.625,-1.681 -6.427,0.121 l -4.404,4.404 C 39.184,44.061 38.896,43.901 38.593,43.731 35.812,42.19 32.005,40.078 27.999,36.069 23.982,32.052 21.867,28.239 20.322,25.456 20.158,25.161 20.002,24.877 19.848,24.607 l 2.956,-2.952 1.453,-1.455 c 1.805,-1.805 1.855,-4.688 0.117,-6.427 L 15.632,5.029 C 13.895,3.292 11.01,3.345 9.205,5.15 L 6.741,7.628 6.809,7.695 c -0.826,1.054 -1.517,2.27 -2.03,3.581 -0.474,1.248 -0.769,2.439 -0.904,3.632 -1.154,9.57 3.219,18.316 15.087,30.185 16.405,16.404 29.626,15.165 30.196,15.104 1.243,-0.148 2.433,-0.445 3.643,-0.915 1.3,-0.508 2.515,-1.197 3.568,-2.021 l 0.054,0.047 2.496,-2.444 c 1.801,-1.805 1.853,-4.688 0.116,-6.431 z m -2.058,4.487 -1.1,1.098 -0.438,0.421 c -0.69,0.667 -1.884,1.604 -3.628,2.286 -0.99,0.381 -1.966,0.626 -2.959,0.744 -0.125,0.012 -12.56,1.073 -27.95,-14.316 C 7.816,30.068 5.719,22.528 6.598,15.225 6.708,14.257 6.951,13.283 7.339,12.265 8.027,10.511 8.963,9.318 9.625,8.627 L 11.146,7.091 C 11.879,6.356 13.022,6.3 13.692,6.97 l 8.742,8.742 c 0.669,0.671 0.616,1.814 -0.118,2.551 l -5.904,5.898 0.545,0.917 c 0.303,0.511 0.623,1.084 0.965,1.706 1.624,2.929 3.846,6.938 8.137,11.225 4.28,4.282 8.283,6.502 11.203,8.122 0.631,0.349 1.207,0.67 1.724,0.978 l 0.919,0.545 5.9,-5.902 c 0.736,-0.733 1.883,-0.787 2.553,-0.119 l 8.738,8.74 c 0.668,0.67 0.615,1.813 -0.119,2.547 z"
-           id="path4247" />
-      </g>
-    </g>
-    <g
-       id="g4379"
-       transform="matrix(0.660358,0,0,0.660358,118.07162,307.63937)">
-      <g
-         id="g4392">
+         transform="matrix(0.83673479,0,0,0.83673479,5.8966967,137.74407)"
+         id="g4304">
         <rect
-           y="-712.4646"
-           x="946.59497"
+           y="-222.64311"
+           x="945.86261"
            height="40.263107"
            width="40.263107"
-           id="rect4298"
+           id="rect4257"
            style="display:inline;opacity:0.98999999;fill:#026e00;fill-opacity:1;stroke:none;stroke-width:0.71499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           transform="matrix(0,1.2670927,-1.2670927,0,-184.91716,-258.20556)" />
+           transform="matrix(0,1,-1,0,0,0)" />
         <g
-           id="g4387">
+           id="g4245"
+           transform="matrix(0.42206524,0,0,0.42206524,189.00527,952.48787)"
+           style="opacity:0.98999999;fill:#ffffff;fill-opacity:1">
           <path
-             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-             d="m 692.1543,953.54883 c -2.32377,0 -4.36631,1.18416 -5.80274,2.91797 -1.43642,1.7338 -2.29687,4.02517 -2.29687,6.35547 0,3.90147 1.93395,8.00616 3.83593,11.16992 1.90199,3.16375 3.8086,5.39453 3.8086,5.39453 l 0.44336,0.51758 0.45703,-0.50586 c 0,0 1.99688,-2.20763 3.99023,-5.36133 1.99335,-3.1537 4.02149,-7.2616 4.02149,-11.21484 0,-5.19278 -3.86004,-9.27344 -8.45703,-9.27344 z m 0,1.19922 c 3.88452,0 7.25781,3.47219 7.25781,8.07422 0,3.53344 -1.90072,7.51249 -3.83594,10.57421 -1.70592,2.69896 -3.02864,4.15082 -3.4082,4.58204 -0.36652,-0.44062 -1.6221,-1.89891 -3.24805,-4.60352 -1.84802,-3.07399 -3.66601,-7.05681 -3.66601,-10.55273 0,-2.0314 0.77005,-4.07698 2.02343,-5.58985 1.25339,-1.51287 2.95996,-2.48437 4.87696,-2.48437 z"
-             id="path4374"
-             inkscape:connector-curvature="0" />
-          <path
-             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-             d="m 692.33398,958.19727 c -2.13741,0 -3.88281,1.7454 -3.88281,3.88281 0,2.13741 1.7454,3.88281 3.88281,3.88281 2.13742,0 3.88282,-1.7454 3.88282,-3.88281 0,-2.13741 -1.7454,-3.88281 -3.88282,-3.88281 z m 0,1.19921 c 1.48889,0 2.68164,1.19471 2.68164,2.6836 0,1.48888 -1.19275,2.68359 -2.68164,2.68359 -1.48888,0 -2.68359,-1.19471 -2.68359,-2.68359 0,-1.48889 1.19471,-2.6836 2.68359,-2.6836 z"
-             id="path4377"
-             inkscape:connector-curvature="0" />
+             id="path4247"
+             d="M 59.035,48.433 50.293,39.69 c -1.741,-1.734 -4.625,-1.681 -6.427,0.121 l -4.404,4.404 C 39.184,44.061 38.896,43.901 38.593,43.731 35.812,42.19 32.005,40.078 27.999,36.069 23.982,32.052 21.867,28.239 20.322,25.456 20.158,25.161 20.002,24.877 19.848,24.607 l 2.956,-2.952 1.453,-1.455 c 1.805,-1.805 1.855,-4.688 0.117,-6.427 L 15.632,5.029 C 13.895,3.292 11.01,3.345 9.205,5.15 L 6.741,7.628 6.809,7.695 c -0.826,1.054 -1.517,2.27 -2.03,3.581 -0.474,1.248 -0.769,2.439 -0.904,3.632 -1.154,9.57 3.219,18.316 15.087,30.185 16.405,16.404 29.626,15.165 30.196,15.104 1.243,-0.148 2.433,-0.445 3.643,-0.915 1.3,-0.508 2.515,-1.197 3.568,-2.021 l 0.054,0.047 2.496,-2.444 c 1.801,-1.805 1.853,-4.688 0.116,-6.431 z m -2.058,4.487 -1.1,1.098 -0.438,0.421 c -0.69,0.667 -1.884,1.604 -3.628,2.286 -0.99,0.381 -1.966,0.626 -2.959,0.744 -0.125,0.012 -12.56,1.073 -27.95,-14.316 C 7.816,30.068 5.719,22.528 6.598,15.225 6.708,14.257 6.951,13.283 7.339,12.265 8.027,10.511 8.963,9.318 9.625,8.627 L 11.146,7.091 C 11.879,6.356 13.022,6.3 13.692,6.97 l 8.742,8.742 c 0.669,0.671 0.616,1.814 -0.118,2.551 l -5.904,5.898 0.545,0.917 c 0.303,0.511 0.623,1.084 0.965,1.706 1.624,2.929 3.846,6.938 8.137,11.225 4.28,4.282 8.283,6.502 11.203,8.122 0.631,0.349 1.207,0.67 1.724,0.978 l 0.919,0.545 5.9,-5.902 c 0.736,-0.733 1.883,-0.787 2.553,-0.119 l 8.738,8.74 c 0.668,0.67 0.615,1.813 -0.119,2.547 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.660358,0,0,0.660358,118.07162,307.63937)"
+         id="g4379">
+        <g
+           id="g4392">
+          <rect
+             transform="matrix(0,1.2670927,-1.2670927,0,-184.91716,-258.20556)"
+             style="display:inline;opacity:0.98999999;fill:#026e00;fill-opacity:1;stroke:none;stroke-width:0.71499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect4298"
+             width="40.263107"
+             height="40.263107"
+             x="946.59497"
+             y="-712.4646" />
+          <g
+             id="g4387">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4374"
+               d="m 692.1543,953.54883 c -2.32377,0 -4.36631,1.18416 -5.80274,2.91797 -1.43642,1.7338 -2.29687,4.02517 -2.29687,6.35547 0,3.90147 1.93395,8.00616 3.83593,11.16992 1.90199,3.16375 3.8086,5.39453 3.8086,5.39453 l 0.44336,0.51758 0.45703,-0.50586 c 0,0 1.99688,-2.20763 3.99023,-5.36133 1.99335,-3.1537 4.02149,-7.2616 4.02149,-11.21484 0,-5.19278 -3.86004,-9.27344 -8.45703,-9.27344 z m 0,1.19922 c 3.88452,0 7.25781,3.47219 7.25781,8.07422 0,3.53344 -1.90072,7.51249 -3.83594,10.57421 -1.70592,2.69896 -3.02864,4.15082 -3.4082,4.58204 -0.36652,-0.44062 -1.6221,-1.89891 -3.24805,-4.60352 -1.84802,-3.07399 -3.66601,-7.05681 -3.66601,-10.55273 0,-2.0314 0.77005,-4.07698 2.02343,-5.58985 1.25339,-1.51287 2.95996,-2.48437 4.87696,-2.48437 z"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path4377"
+               d="m 692.33398,958.19727 c -2.13741,0 -3.88281,1.7454 -3.88281,3.88281 0,2.13741 1.7454,3.88281 3.88281,3.88281 2.13742,0 3.88282,-1.7454 3.88282,-3.88281 0,-2.13741 -1.7454,-3.88281 -3.88282,-3.88281 z m 0,1.19921 c 1.48889,0 2.68164,1.19471 2.68164,2.6836 0,1.48888 -1.19275,2.68359 -2.68164,2.68359 -1.48888,0 -2.68359,-1.19471 -2.68359,-2.68359 0,-1.48889 1.19471,-2.6836 2.68359,-2.6836 z"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          </g>
         </g>
       </g>
     </g>
     <image
-       sodipodi:absref="/home/irfanpule/Documents/GliB/Kesenian/Kegiatan/nodejs-2/code.png"
+       sodipodi:absref="/home/ars/git/GLiB/Kesenian/Kegiatan/nodejs-2/code.png"
        xlink:href="code.png"
-       y="898.55554"
-       x="30"
-       id="image5748"
-       preserveAspectRatio="none"
+       width="116.89328"
        height="116.89328"
-       width="116.89328" />
-    <image
-       sodipodi:absref="/home/irfanpule/Documents/GliB/Kesenian/Kegiatan/nodejs-2/logo-btech.png"
-       xlink:href="logo-btech.png"
-       width="104.93301"
-       height="33.360203"
        preserveAspectRatio="none"
-       id="image5847"
-       x="603.68817"
-       y="929.89319"
-       style="display:inline" />
+       id="image5748"
+       x="601.74634"
+       y="898.55554" />
   </g>
   <g
      inkscape:groupmode="layer"
