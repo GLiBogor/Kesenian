@@ -80,8 +80,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="94.299483"
-     inkscape:cy="417.56483"
+     inkscape:cx="-84.700517"
+     inkscape:cy="257.56483"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -497,5 +497,22 @@
            id="tspan4294"
            sodipodi:role="line">Saputro Aryulianto</tspan></text>
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#214c67;fill-opacity:1;stroke:none"
+       d="m 744.09449,872.64154 -179.71875,179.72066 80.8125,0 98.90625,-98.90816 0,-80.8125 z"
+       id="rect4813" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-290.92563"
+       y="1187.7054"
+       id="text4815"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4817"
+         x="-290.92563"
+         y="1187.7054">GRATIS</tspan></text>
   </g>
 </svg>
