@@ -1006,14 +1006,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="459.37139"
-     inkscape:cy="510.81775"
+     inkscape:cx="122.99059"
+     inkscape:cy="591.62995"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:window-width="1366"
-     inkscape:window-height="720"
+     inkscape:window-height="719"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1450,7 +1450,7 @@
            y="177.11414"
            x="15.16438"
            id="tspan6194"
-           sodipodi:role="line">@MabesBlankOn</tspan></text>
+           sodipodi:role="line">KodeKreatif Labs</tspan></text>
       <text
          id="text6323"
          y="186.65294"
@@ -1516,54 +1516,59 @@
            x="15.446374"
            sodipodi:role="line">+62 8989 5428 80</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="120.99171"
-       y="224.7029"
-       id="text4725"><tspan
-         sodipodi:role="line"
-         x="120.99171"
+    <g
+       id="g4727"
+       transform="translate(0,1.4014853e-6)">
+      <text
+         id="text4725"
          y="224.7029"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:0;font-family:Antonio;-inkscape-font-specification:Antonio;fill:#ffffff;stroke-width:0.26458332"
-         id="tspan4729">Sebelah puspa raya. (rumah warna biru)</tspan></text>
-    <text
-       id="text4737"
-       y="211.09575"
-       x="175.73119"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#97d5e0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan4735"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:0;font-family:Antonio;-inkscape-font-specification:Antonio;fill:#97d5e0;stroke-width:0.26458332"
-         y="211.09575"
+         x="120.99171"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4729"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:0;font-family:Antonio;-inkscape-font-specification:Antonio;fill:#ffffff;stroke-width:0.26458332"
+           y="224.7029"
+           x="120.99171"
+           sodipodi:role="line">Sebelah puspa raya. (rumah warna biru)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#97d5e0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="175.73119"
-         sodipodi:role="line">Lokasi</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="99.000626"
-       y="218.27731"
-       id="text4745"><tspan
-         sodipodi:role="line"
-         x="99.000626"
+         y="211.09575"
+         id="text4737"><tspan
+           sodipodi:role="line"
+           x="175.73119"
+           y="211.09575"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:0;font-family:Antonio;-inkscape-font-specification:Antonio;fill:#97d5e0;stroke-width:0.26458332"
+           id="tspan4735">Lokasi</tspan></text>
+      <text
+         id="text4745"
          y="218.27731"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:0;font-family:Antonio;-inkscape-font-specification:Antonio;fill:#ffffff;stroke-width:0.26458332"
-         id="tspan4743">Graha Kartika Pratama A3 No.10 , Bojonggede, Bogor</tspan></text>
+         x="99.000626"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4743"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:0;font-family:Antonio;-inkscape-font-specification:Antonio;fill:#ffffff;stroke-width:0.26458332"
+           y="218.27731"
+           x="99.000626"
+           sodipodi:role="line">Graha Kartika Pratama A3 No.10 , Bojonggede, Bogor</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="195.16302"
-       y="179.78064"
+       y="179.65961"
        id="text4987"><tspan
          sodipodi:role="line"
          id="tspan4985"
          x="195.16302"
-         y="179.78064"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;text-align:end;text-anchor:end;fill:#f6d258;stroke-width:0.26458332">Daftar:</tspan><tspan
+         y="179.65961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:Bebas;-inkscape-font-specification:Bebas;text-align:end;letter-spacing:0px;text-anchor:end;fill:#f6d258;stroke-width:0.26458332"
+         dy="0.92999995">Daftar:</tspan><tspan
          sodipodi:role="line"
          x="195.16302"
-         y="193.51546"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332"
+         y="192.88878"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:Antonio;-inkscape-font-specification:Antonio;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.26458332"
          id="tspan4989">s.id/kelasiot</tspan></text>
   </g>
 </svg>
