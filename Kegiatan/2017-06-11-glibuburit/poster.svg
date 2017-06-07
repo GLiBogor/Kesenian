@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="351.60507"
-     inkscape:cy="219.4099"
+     inkscape:cx="379.88934"
+     inkscape:cy="57.785494"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -175,7 +175,7 @@
     </g>
     <g
        id="g4360"
-       transform="translate(0,-19.999988)">
+       transform="translate(0,-14.949223)">
       <text
          sodipodi:linespacing="125%"
          id="text3364"
@@ -203,7 +203,7 @@
     </g>
     <g
        id="g4354"
-       transform="translate(0,-18.757185)">
+       transform="translate(0,-13.70642)">
       <text
          sodipodi:linespacing="125%"
          id="text3372"
@@ -231,7 +231,7 @@
     </g>
     <g
        id="g4348"
-       transform="translate(0,-19.999991)">
+       transform="translate(0,-14.949226)">
       <text
          sodipodi:linespacing="125%"
          id="text3384"
@@ -342,58 +342,55 @@
          style="display:inline;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.71499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       id="g4576"
-       transform="translate(4.0268762e-6,39.999987)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text3392"
-         y="809.67133"
-         x="75.440483"
-         style="font-style:normal;font-weight:normal;font-size:28.26826477px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aca65a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;fill:#aca65a;fill-opacity:1"
-           y="809.67133"
-           x="75.440483"
-           id="tspan3394"
-           sodipodi:role="line">Minggu, 11 Juni 2017</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4374"
-         y="833.16742"
-         x="76.812988"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:Lumnia;-inkscape-font-specification:'Lumnia Light';fill:#ffffff"
-           y="833.16742"
-           x="76.812988"
-           id="tspan4376"
-           sodipodi:role="line">13.00 s.d. Berbuka Puasa</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:28.26826477px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aca65a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.26826477px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aca65a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.440491"
+       y="849.67133"
+       id="text3392"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3394"
+         x="75.440491"
+         y="849.67133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;fill:#aca65a;fill-opacity:1">Minggu, 11 Juni 2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="76.812996"
+       y="873.16742"
+       id="text4374"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4376"
+         x="76.812996"
+         y="873.16742"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:Lumnia;-inkscape-font-specification:'Lumnia Light';fill:#ffffff">13.00 s.d. Berbuka Puasa</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4493"
+       y="849.67133"
+       x="579.9668"
+       style="font-style:normal;font-weight:normal;font-size:28.26826477px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aca65a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;fill:#aca65a;fill-opacity:1"
+         y="849.67133"
          x="579.9668"
-         y="809.67133"
-         id="text4493"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4495"
-           x="579.9668"
-           y="809.67133"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;fill:#aca65a;fill-opacity:1">Daftar</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="558.40564"
-         y="833.16742"
-         id="text4497"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4499"
-           x="558.40564"
-           y="833.16742"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Coco Gothic';-inkscape-font-specification:'Coco Gothic Light';fill:#ffffff">s.id/xxxxxxx</tspan></text>
-    </g>
+         id="tspan4495"
+         sodipodi:role="line">Daftar</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4497"
+       y="873.16742"
+       x="464.81171"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       onclick="http://s.id/glibuburit2017"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Coco Gothic';-inkscape-font-specification:'Coco Gothic Light';fill:#ffffff"
+         y="873.16742"
+         x="464.81171"
+         id="tspan4499"
+         sodipodi:role="line">http://s.id/glibuburit</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3f46;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
@@ -410,26 +407,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="218.26373"
+       x="238.22955"
        y="1025.7683"
        id="text4522"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4524"
-         x="218.26373"
+         x="238.22955"
          y="1025.7683"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Coco Gothic';-inkscape-font-specification:'Coco Gothic';fill:#ffffff">- Mohon untuk membawa alat tulis sendiri -</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Coco Gothic';-inkscape-font-specification:'Coco Gothic';fill:#ffffff">- Mohon membawa alat tulis pribadi -</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="345.51389"
-       y="433.9101"
+       y="438.96091"
        id="text3396"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3398"
          x="345.51389"
-         y="433.9101"
+         y="438.96091"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Coco Gothic';-inkscape-font-specification:'Coco Gothic';fill:#ffffff">Materi :</tspan></text>
   </g>
 </svg>
